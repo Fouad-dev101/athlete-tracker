@@ -25,3 +25,22 @@ A full-stack workout and performance tracking app for athletes, with a focus on 
 cd server
 npm install
 npm run dev
+
+## Screenshots
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### Log Workout
+![Log Workout](./screenshots/log-workout.png)
+
+### Analytics & Progress Graphs
+![Analytics](./screenshots/analytics.png)
+![Analyticss](./screenshots/analyticss.png)
+
+
+### Injury Tracker
+![Injuries](./screenshots/injuries.png)
+
+### Weekly Planner with AI
+![Planner](./screenshots/planner.png)
